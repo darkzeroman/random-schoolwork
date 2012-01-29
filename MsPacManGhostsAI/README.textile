@@ -1,1 +1,4 @@
 h4. The Ghost AIs for Ms. Pac Man as described by this "site(site)":http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior.
+
+h4. More details "here.(here)":https://research.cc.gatech.edu/inc/sites/edu.inc/files/cs4731/project1.html
+
